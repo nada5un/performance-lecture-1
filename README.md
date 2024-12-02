@@ -13,6 +13,7 @@ $ git clone https://github.com/performance-lecture/lecture-1.git
 2. install dependencies
 
 ```
+$ nvm use 16.13.1
 $ npm install
 or
 $ yarn
@@ -33,7 +34,8 @@ $ npm run server
 or
 $ yarn server
 ```
-*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
+
+\*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
 
 5. build + serve
 
